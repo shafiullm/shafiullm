@@ -1,4 +1,4 @@
-## M. Shafiul Alam
+## M Shafiul Alam
 
 Software engineer, designer and educator. Currently at **Turing**, where I work on training and evaluating
 large language models across a range of Python and JavaScript projects.
