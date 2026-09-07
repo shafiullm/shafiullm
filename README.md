@@ -14,7 +14,7 @@ serverless infrastructure, developer tooling, and the occasional thing I just wa
 Before all of this I worked as a graphics and motion designer, which still shows up in how I think
 about interfaces.
 
-**Publication.** *Quantifying Attention Levels in Individualized Online Tutoring: A Case of
+**Publication:** *Quantifying Attention Levels in Individualized Online Tutoring: A Case of
 One-on-One Sessions*, IEEE, 2023.
 [ieeexplore.ieee.org/document/10450078](https://ieeexplore.ieee.org/document/10450078)
 
